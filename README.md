@@ -15,6 +15,7 @@ vagrant up
 ## centos
 
 ## windows
+- *scripts/provision.ps1* - sets up admin password
 
 ## Requirements
 - vagrant
